@@ -1,0 +1,13 @@
+# Composer / Vendor
+/vendor/
+
+# Temporary / OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Environment
+.env
+
+# SQLite runtime files (database/schema.sql tetap di-track)
+*.sqlite-journal
